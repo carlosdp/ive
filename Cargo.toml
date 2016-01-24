@@ -1,0 +1,9 @@
+[package]
+name = "ive"
+version = "0.1.0"
+authors = ["Carlos Diaz-Padron <carlosdiazpadron@gmail.com>"]
+
+[dependencies]
+glium = "*"
+cgmath = "*"
+image = "*"
