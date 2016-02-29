@@ -7,3 +7,4 @@ authors = ["Carlos Diaz-Padron <carlosdiazpadron@gmail.com>"]
 glium = "*"
 cgmath = "*"
 image = "*"
+obj-rs = "^0.4.15"
